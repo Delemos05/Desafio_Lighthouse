@@ -23,7 +23,7 @@ Siga estas etapas para configurar o ambiente e executar o projeto.
 
 1. Clone o repositório
 
-git clone [https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/Delemos05/Desafio_Lighthouse)
+git clone https://github.com/Delemos05/Desafio_Lighthouse
 2. Navegue até o diretório do projeto
 cd nome-do-projeto
 3. Crie um ambiente virtual (opcional)
